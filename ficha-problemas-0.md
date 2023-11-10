@@ -32,15 +32,15 @@
 
 - $104 \times 5 =$
 
-- $294 ÷ 7 =$
+- $294 \div 7 =$
 
-- $378 ÷ 9 =$
+- $378 \div 9 =$
 
-- $432 ÷ 6 =$
+- $432 \div 6 =$
 
-- $540 ÷ 10 =$
+- $540 \div 10 =$
 
-- $5104 ÷ 3 =$
+- $5104 \div 3 =$
 
 - $3 + 4 \times 5 =$
 
@@ -102,7 +102,7 @@
 
 ## 5. Resolução de Problemas:
 
-5.1 Joana tinha $24$ chocolates. Ela deu $1/3$ dos seus chocolates ao seu irmão. Com quantos chocolates a Joana ficou?
+5.1 Joana tinha $24$ chocolates. Ela deu $1 \over 3$ dos seus chocolates ao seu irmão. Com quantos chocolates a Joana ficou?
 
 5.2 O Paulo tem $15$ anos. O seu pai tem o dobro da sua idade. Quantos anos tem o pai do Paulo?
 
@@ -110,7 +110,7 @@
 
 5.4 O João tem $10$ anos. O seu irmão tem $5$ anos. Quantos anos tinha o João quando o seu irmão nasceu?
 
-5.5 A distancia entre a casa do João e a escola é de $2$ quilómetros, a $1/3$ da distância entre a casa do João e a casa do seu amigo. Qual é a distância entre a casa do João e a casa do seu amigo?
+5.5 A distancia entre a casa do João e a escola é de $2$ quilómetros, a $1 \over 3$ da distância entre a casa do João e a casa do seu amigo. Qual é a distância entre a casa do João e a casa do seu amigo?
 
 5.6 O João tem $3$ jogos de Nintendo Switch. Cada jogo custa $50$ euros. Quanto dinheiro gastou o João nos jogos?
 
